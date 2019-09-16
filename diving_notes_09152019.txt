@@ -1,0 +1,284 @@
+**Diver’s Diamond of knowledge, skills, equipment and experience **
+[we will focus on salt water only throughout this manual]
+proper knowledge, skills, equipment, and experience
+
+
+
+The Total Diving System has six subsystems:
+
+The Snorkeling System: mask, snorkel, boots, fins and mesh bag
+The Exposure System: insulating suit, a dive hood for colder water and gloves or mitts
+The Delivery System: { Section 2.} includes a regulator, alternate air source and a high pressure scuba cylinder.
+The Information System: dive computer, SSI DiveLog
+The Buoyancy System: Buoyancy Compensator (BC)
+The Accessory System: special tools, repair parts, approved scuba lubricants and cleaners
+
+
+SCUBA:  Self-Contained Underwater Breathing Apparatus
+
+10 meters == 33 feet 
+
+**Pressure**
+Pressure is defined as force per unit area and is commonly expressed in bar in the metric system and pounds per square inch (psi) and atmospheres in the imperial system. It is common to think of pressure in terms of the number of atmospheres.
+
+
+Freshwater weighs 62.5 pounds per cubic foot, and salt water weighs 64 pounds per cubic foot
+
+An increase of one atmosphere (14.7 psi) of pressure underwater takes place in a relatively short distance: only 33 feet sea water (fsw) or 34 feet fresh water (ffw).
+
+Absolute pressure is expressed in pounds per square inch absolute (psia) or in atmospheres absolute (ata)
+
+The pressure increase per foot of descent in salt water is 0.445 psi (14.7 / 33). This means that there is a pressure increase of about 0.5 psi for every foot of descent.
+
+
+Boyle’s Law says that if the temperature remains constant, the volume of a gas in a flexible container will vary inversely as the absolute pressure changes and the density will vary directly. More simply stated for diving: as water pressure increases, the volume of air spaces in your body decreases — and as water pressure decreases, the volume of air spaces in your body increases.
+
+Notice on the chart that the greatest relative volume change takes place between 0 and 33 feet.
+
+ “squeeze,” the uneven application of pressure.
+
+Prevention of ear squeeze is easy
+	Swallowing
+	Rotating the jaw
+	Valsalva technique
+
+Vision Underwater
+Refraction: This makes objects look 33% larger and 25% closer. 
+
+Particles in the water (turbidity) 
+
+These layers of different temperatures are called thermoclines.
+
+
+
+
+
+***Sections 2***
+We lose body heat three ways in diving: 
+	internal conduction
+	external conduction
+	and convection.
+
+
+blood shunting: occurs where circulation to the outer extremities of the body is slowed
+
+Remember, most of your body heat escapes through your head, feet and hands. Hoods, gloves and boots account for 30% to 40% of your thermal protection.
+
+
+Delivery System: automatically regulates cylinder pressure to ambient pressure,
+
+the most common scuba system you will dive with is called an open circuit demand system.
+
+The most efficient breathing pattern for scuba is a deep inhalation followed by an even exhalation — deep, balanced and rhythmic. The key is to relax in the water and realize that your breathing pattern will automatically become normal with experience.
+
+the proper swimming position, also referred to as attitude, is 15 to 20 degrees above horizontal.
+
+first stage takes high pressure and reduces it to 140 psi over ambient pressure
+The second stage decreases it to ambient pressure
+
+The air we breathe is roughly 21% oxygen (O2), which we all need for survival, 78% nitrogen (N2) and 1% trace gases (which can be ignored for our purposes). As you will learn in Section 3, we cannot breathe pure oxygen underwater. Nitrogen also limits us and can potentially produce a narcotic effect at depths below 100 feet (nitrogen narcosis). Plus, nitrogen limits our time at depth due to decompression sickness.
+
+return to the boat or shore with at least 500 psi of breathing gas remaining.
+
+A burst disc is a required feature on all cylinder valves and is designed to rupture at about one and a half times the working pressure of the cylinder. The burst disc protects the cylinder in case it is overfilled or left in a car trunk in the sun.
+
+Close your first stage with a dust cap and do not press the purge button while rinsing the regulator. Otherwise water can enter the regulator and lead to corrosion.
+
+No matter how often you dive, your Delivery System should be serviced on an annual basis. Internal seals remain tightened against metal and deterioration occurs even when the system is in storage. Annual inspections and replacements of O-rings, seats and seals prevent unexpected failures in the components of your underwater life support.
+
+In 1970, SSI led the way in implementing new requirements that all scuba cylinders to be visually inspected internally and externally at least once a year
+
+
+The most important part of caring for your cylinder is keeping moisture out. To do that, simply keep a minimum cylinder pressure of 500 to 800 psig in it at all times. Store the cylinder in a cool, dry place in a secure position so it can’t fall. When transporting a cylinder, position it with the bottom of the cylinder forward, and secure the cylinder so it cannot roll around.
+
+Submersible Pressure Gauge (SPG)
+
+
+Buoyancy is when fluid pushes up on an object immersed in it. Archimedes’ Principle states: “An object floating or immersed in a liquid will be buoyed up by a force equal to the weight of the volume of the liquid displaced.”
+
+salt water weighs 64 lbs. per cubic foot and fresh water weighs 62.5 lbs. per cubic foot.
+
+The most important choice for a BC is fit and lift to keep a fully equipped diver floating on the surface.
+
+Neutral buoyancy allows you to maneuver effortlessly and consume less air. Suspended in liquid space you are neither descending nor ascending. You are in total control
+
+No matter how much or how little diving you do, your BC should be serviced on an annual basis.
+
+Note only .... 
+Your Spare Items
+It’s always a good idea to carry what we call the “save-a-dive” kit. You don’t want to spend a lot of money on a vacation and have something minor spoil a dive. Things like an extra mask, O-rings, extra mask strap, anti-fog solution, lens cleaner, extra mouthpieces, wire ties, batteries, light bulbs and maybe even a multi-purpose tool. These are just ideas. For a more complete list, look in your Total DiveLog or the equipment checklist in the mySSI app.
+....
+
+The First Rule of Scuba: Breathe continuously!
+The Second Rule of Scuba: Ascend slowly and maintain control!
+The Third Rule of Scuba: Never dive alone or beyond your level of training!
+
+Never exceed an ascent rate of 30 feet per minute
+
+
+
+**Section 3**
+The blood entering the pulmonary capillary bed has been transported from other parts of the body. By then, that blood is low in oxygen and high in carbon dioxide.
+
+movement of gas from an area of higher concentration to an area of lower concentration is called diffusion
+
+It is important to note that all of these injuries are highly unlikely to occur and rarely seen in well trained divers. The key to prevention is proper knowledge, dive planning, continuous rhythmic breathing, proper equipment, and sufficient diving skills.
+
+ultimately, circulation is blocked, creating an obstruction called an embolus
+
+Never ever let freedivers or snorkelers breathe from your Delivery System, not even at a shallow depth of 3 feet.
+
+
+rule of thirds: 1,000 psi to explore, 1,000 psi to return to your ascent point, and 1000 psi for your ascent and safety stop
+
+SSI recommends that you always wait 24 hours after diving if you plan to fly, or even drive, above 8,000 fee
+
+These symptoms of nitrogen narcosis are listed in terms of increasing depths.
+	Light headedness, numbness and increasing self-confidence/euphoria
+	Unusual behavior Loss of dexterity
+	Dizziness
+	Abnormal vision and hearing
+	Inability to reason or follow a dive plan
+	Carelessness about personal well-being
+	Short-term memory loss and losing track of time
+
+Several factors lessen a diver’s ability to resist the effects of nitrogen narcosis:
+	Consumption of alcohol and/or drugs
+	Fatigue
+	Carbon dioxide build-up
+	Anxiety
+	Inexperience
+
+
+Nitrogen Narcosis Treatment: ascend to a shallower depth.
+
+The theoretical depth limit for air is 218 feet
+Theoretically, the depth limit on pure oxygen would be 20 feet (1.6 ata)
+
+Oxygen Toxicity:  (acronym)  ConVENTID: Convulsions, Visual problems, Ear disorder, Nausea, Twitching, Irritability and Dizziness
+
+
+Oxygen Toxicity: Prevention
+	Never dive with pure oxygen as your main gas
+	Always analyze the contents of your tank when you are diving with a gas other than air
+	Never exceed a maximum ppO2 of 1.4 ata
+
+In scuba divers, excessive carbon dioxide retention has been associated with a few common signs:
+	Distress and anxiety
+	Headache, caused by dilation of capillaries in the brain
+	Possible confusion and irrational behavior
+	Drowsiness and unconsciousness
+
+Carbon Dioxide and Hypercapnia Prevention:
+	Breathe continuously. Do not try to conserve gas by reducing your breathing rate or skipping breaths.
+	Wear a high-quality, personally fitted Total Diving System and have it maintained on a regular basis.
+	Stay within the diving limit of 100 feet.
+	Always maintain neutral buoyancy to minimize exertion during the dive.
+	Should you find yourself over-exerting during the dive, simply stop. Surface carefully if unable to catch your breath. Underwater, you are exposed to increased partial pressures of carbon dioxide just like you are exposed to increased levels of nitrogen and oxygen. It may not be possible to recover from the same level of exertion at depth that a diver can tolerate on the surface.
+
+
+Carbon Monoxide Poisoning: Signs and Symptoms
+You can recognize carbon monoxide poisoning through a variety of symptoms:
+	Red lips and nail beds
+	Headache
+	Dizziness
+	Nausea
+	Weakness
+	Uncoordinated movements
+	Confusion and inability to reason
+	Unconsciousness
+	Respiratory failure
+
+
+Carbon Monoxide Poisoning:
+	Causes: Contamination of the breathing medium can be caused by placing a gas compressor’s intake too near the exhaust manifold of a boat. It can also be caused by overheating, which causes the internal lubricants to burn and foul the gas.
+	Prevention: to prevent carbon monoxide poisoning during your dive, be sure to obtain pure gas from your SSI Dive Center or reputable diving operation.
+
+There are many reasons for planning and executing your dives, but the most essential is to prevent accidents.
+
+Depth: The deepest point reached during the dive, no matter how briefly you stayed there.
+Bottom Time: The amount of elapsed time from the start of your descent until the start of your ascent.
+Total Dive Time: The total amount of elapsed time from the start of your descent until you reach the surface including ascent and decompression stop time.
+Surface Interval: The amount of time the diver stays out of the water or on the surface between dives, beginning as soon as the diver surfaces and ending at the start of the next descent.
+Repetitive Dive: Any dive started more than 10 minutes and less than 12 hours after a previous dive.
+No-Decompression Limits: The maximum allowed time at depth without having to perform a mandatory decompression stop during the ascent.
+No-Decompression Dive. Any dive made to a depth and time that allow a direct ascent to the surface without mandatory decompression stops.
+Residual Nitrogen: Residual nitrogen is the amount of excessive nitrogen dissolved in our bloodstream and tissues after a dive and all previous dives in a series. Since the goal is to make no-decompression dives, the remaining nitrogen is what we have to track during the diving day and week. A dive computer does this automatically.
+Decompression Dive: Any dive which exceeds the No-Decompression Limits at a certain depth, so that a direct ascent to the surface is not possible and mandatory decompression stops must be made.
+
+
+The pre-dive briefing is important because it ensures that every diver knows all dive parameters
+
+The pre-dive briefing should include the following specifics and your dive parameters:
+	Objective of the Dive
+	Conditions of the Dive
+	Dive Plan
+	Communication
+	Buddy Check List
+	Equipment Familiarization
+	Entry and Exit Procedures
+	Lost Buddy Procedure
+	Emergency Procedures
+	Go/No-Go Diving Decision
+
+Each diver has the right at any time, for any reason, to call off a dive, even if you are dressed and ready to enter the water.
+
+Surf Entry Technique
+When you’ve determined that the conditions are safe for diving, it’s time to get in! Follow these steps to enter the surf properly.
+	Hold hands with your buddy. Each of you should protect your mask with your free hand and prepare to move into the water.
+	Next, you and your buddy will look over your inside shoulders and begin shuffling backward, maintaining physical contact.
+	Time your entry into surf to coincide with lull between wave sets.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
