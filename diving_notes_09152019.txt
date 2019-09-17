@@ -51,8 +51,6 @@ These layers of different temperatures are called thermoclines.
 
 
 
-
-
 ***Sections 2***
 We lose body heat three ways in diving: 
 	internal conduction
@@ -229,25 +227,45 @@ When you’ve determined that the conditions are safe for diving, it’s time to
 	Next, you and your buddy will look over your inside shoulders and begin shuffling backward, maintaining physical contact.
 	Time your entry into surf to coincide with lull between wave sets.
 
+The major symptom of decompression sickness is usually pain described as deep and persistent, mostly in the joints
+9 meters per minute and a safety stop for every dive (5 meters for 3 to 5 minutes).
+
+Your Surface Air Consumption (SAC) has now improved to 0.5 cubic feet per minute at 1 ata
+
+Calculate Dive Air Conumption ... 
+SAC x number of atmospheres at depth x number of minutes = gas required for the dive
 
 
 
+subtract out 500 psi for safety = new-rate
+now divide new-rate by capacity rate = percentage-change
+multiple that by capacity = availablity 
+
+#note .5 is surface air consumption (SAC)
+divide availability by .5 = minutes 
+
+
+More than _85_ of Earth’s oxygen is produced by marine plants.
 
 
 
+There are two general causes of breathing difficulty: being low or out of gas, and having an ineffective breathing pattern
 
+You are capable of helping your buddy in case of entanglement or sharing air. You are not capable of helping a diver in an advanced panic situation, if you are not trained for it. Do all you can without endangering yourself!
 
+“3-R Rule”: Regain Control, Respond, and React.
 
+The Fourth Rule of Scuba: “Stop, Breathe, Think and Act.”
 
+SSI Responsible Diver Code
+I pledge to:
 
-
-
-
-
-
-
-
-
+Dive within the limits of my ability and training.
+Evaluate the conditions before every dive and make sure they fit my personal capabilities.
+Be familiar with and check my equipment before and during each dive.
+Respect the buddy system and its advantages.
+Accept the responsibility for my own well-being on every dive.
+Be environmentally conscious on each and every dive.
 
 
 
